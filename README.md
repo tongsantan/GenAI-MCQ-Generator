@@ -1,4 +1,4 @@
-# Generative AI Blog Generator Project
+# Generative AI MCQ Generator Project
 
 ## How to run?
 ### STEPS:
@@ -6,7 +6,7 @@
 Clone the repository
 
 ```bash
-https://github.com/tongsantan/GenAI-Blog-Generator.git
+https://github.com/tongsantan/GenAI-MCQ-Generator.git
 ```
 ### STEP 01 - Create a conda environment after opening the repository
 
